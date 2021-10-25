@@ -1,0 +1,12 @@
+user: teachertools.epizy.com
+pass: da26a6ChXU5W
+
+Account Information
+Basic information about your account.
+Username: epiz_21474216
+Label	teachertools.epizy.com
+Status	ACTIVE
+Password: teachertools
+
+FTP Username	epiz_21474216
+
